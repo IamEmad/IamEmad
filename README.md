@@ -21,4 +21,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamemad&" alt="iamemad" /></p>
 
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/IamEmad/IamEmad/blob/output/github-contribution-grid-snake.gif)
